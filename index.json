@@ -2341,6 +2341,47 @@
             "quality": "silver"
         },
         {
+            "name": "dawnlight",
+            "display_name": "Dawnlight",
+            "version": "1.0.0",
+            "description": "Calm, wordless morning sounds. Warm felt piano and glass chimes, soft attacks and long decays. Every notification is a quiet exhale.",
+            "author": {
+                "name": "Gary Sheng",
+                "github": "garysheng"
+            },
+            "trust_tier": "community",
+            "categories": [
+                "session.start",
+                "task.acknowledge",
+                "task.complete",
+                "task.error",
+                "input.required",
+                "resource.limit",
+                "user.spam"
+            ],
+            "language": "en",
+            "license": "CC-BY-NC-4.0",
+            "sound_count": 7,
+            "total_size_bytes": 1501555,
+            "source_repo": "garysheng/dawnlight",
+            "source_ref": "v1.0.0",
+            "source_path": "",
+            "manifest_sha256": "357e33d4dca4cd5aea78fadf6056c2a70a0417ef68666c8ab245acff2c044b92",
+            "tags": [
+                "ambient",
+                "calm",
+                "instrumental",
+                "wordless"
+            ],
+            "preview_sounds": [
+                "sounds/task_complete_0.wav",
+                "sounds/session_start_0.wav"
+            ],
+            "added": "2026-08-09",
+            "updated": "2026-08-09",
+            "quality": "gold"
+        },
+        {
             "name": "deadlock_dynamo",
             "display_name": "Dynamo (Deadlock)",
             "version": "1.0.0",
@@ -4126,41 +4167,41 @@
             "quality": "gold"
         },
         {
-        "name": "ferdinand-von-aegir",
-        "display_name": "Ferdinand von Aegir (FE3H)",
-        "version": "1.0.0",
-        "description": "Noble audio alerts featuring Ferdinand von Aegir from Fire Emblem: Three Houses. Voiced by the late, great Billy Kametz",
-        "author": {
-            "name": "PD",
-            "github": "JazzFiend"
-        },
-        "source_repo": "JazzFiend/my-openpeon-packs",
-        "source_ref": "v1.0.0",
-        "source_path": "ferdinand-von-aegir",
-        "trust_tier": "community",
-        "categories": [
-            "session.start",
-            "task.acknowledge",
-            "task.complete",
-            "task.error",
-            "input.required",
-            "resource.limit",
-            "user.spam"
-        ],
-        "language": "en",
-        "license": "CC-BY-NC-4.0",
-        "sound_count": 18,
-        "manifest_sha256": "766aae554e451fe0265d99f094c8a252acba6fb6bc97dc4a47c7279cd779f0d0",
-        "tags": [
-            "gaming",
-            "fire-emblem"
-        ],
-        "preview_sounds": [
-            "sounds/I_am_FVA.wav",
-            "sounds/A_true_noble_never_fails.wav"
-        ],
-        "added": "2026-07-17",
-        "updated": "2026-07-17"
+            "name": "ferdinand-von-aegir",
+            "display_name": "Ferdinand von Aegir (FE3H)",
+            "version": "1.0.0",
+            "description": "Noble audio alerts featuring Ferdinand von Aegir from Fire Emblem: Three Houses. Voiced by the late, great Billy Kametz",
+            "author": {
+                "name": "PD",
+                "github": "JazzFiend"
+            },
+            "source_repo": "JazzFiend/my-openpeon-packs",
+            "source_ref": "v1.0.0",
+            "source_path": "ferdinand-von-aegir",
+            "trust_tier": "community",
+            "categories": [
+                "session.start",
+                "task.acknowledge",
+                "task.complete",
+                "task.error",
+                "input.required",
+                "resource.limit",
+                "user.spam"
+            ],
+            "language": "en",
+            "license": "CC-BY-NC-4.0",
+            "sound_count": 18,
+            "manifest_sha256": "766aae554e451fe0265d99f094c8a252acba6fb6bc97dc4a47c7279cd779f0d0",
+            "tags": [
+                "gaming",
+                "fire-emblem"
+            ],
+            "preview_sounds": [
+                "sounds/I_am_FVA.wav",
+                "sounds/A_true_noble_never_fails.wav"
+            ],
+            "added": "2026-07-17",
+            "updated": "2026-07-17"
         },
         {
             "name": "frederick",
@@ -14438,5 +14479,5 @@
             "quality": "silver"
         }
     ],
-    "total_packs": 350
+    "total_packs": 351
 }
